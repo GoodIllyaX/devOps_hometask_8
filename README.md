@@ -11,8 +11,8 @@
 
 # run
 
-- [HTTP](http://54.167.39.89) - Accessible without SSL (Apache is running).
-- [HTTPS](https://54.167.39.89) - Secure connection with SSL (Note: may show a warning due to self-signed certificate).
+- http://54.167.39.89 - Accessible without SSL (Apache is running).
+- https://54.167.39.89 - Secure connection with SSL (Note: may show a warning due to self-signed certificate).
 
 # Add SSL Certificate
 
